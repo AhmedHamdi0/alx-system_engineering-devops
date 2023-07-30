@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p | grep -Eo '^\w+='; printenv; declare -F | awk '{print $3}'
+declare
