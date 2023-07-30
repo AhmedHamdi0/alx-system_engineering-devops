@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%s" $(tr -d '.' <<< "ewwatratewa.ti.itirtrtr" | wc -c | tr -d ' ') | tr '0-9' 'htbeolc'
